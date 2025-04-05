@@ -20,7 +20,7 @@
                 </div>
                 <div class="inline-flex items-center mb-3 gap-2 py-1 pl-1 pr-2 rounded-sm bg-zinc-100">
                     <span class="flex items-center p-1 font-medium leading-none text-xs text-zinc-50 rounded-sm bg-zinc-700">
-                        Available for hire
+                        Always interested
                     </span>
                     <span class="leading-none text-sm text-zinc-700">
                         contact me
