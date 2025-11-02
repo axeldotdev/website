@@ -27,7 +27,7 @@
                     I'm a big fan of PHP, Laravel, and everything related to them.
                 </p>
                 <p class="max-w-md text-zinc-600 lg:leading-8 mt-2 lg:mt-6">
-                    I'm currently the lead developer at Orvéa,
+                    I'm currently a lead developer at DotWorld,
                     but I'm always open to new opportunities — whether as a <strong class="font-normal">developper</strong> or a <strong class="font-normal">lead developper</strong>.
                     Feel free to reach out to me!
                 </p>
