@@ -39,7 +39,7 @@
                     I started as an intern at the Comme Un Arbre agency and later became an employee.
                     After that, I moved to the Ayctor agency to work on larger projects, mainly for real estate companies.
                     There, I also worked on a SaaS product called Delegatio, which I loved.
-                    Now, I'm the lead developer at Orvéa, where I work on a SaaS product called Wastern.
+                    Now, I'm a lead developer at DotWorld, where I work on a SaaS product called CarJudge.
                 </p>
                 <div class="flex gap-6 mt-6 md:mt-12">
                     <a href="https://www.linkedin.com/in/axeldotdev/" class="px-8 py-3 font-medium text-zinc-50 rounded-sm bg-zinc-900 hover:bg-zinc-800">
